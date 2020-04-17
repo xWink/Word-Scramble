@@ -11,7 +11,10 @@
 #### Note: The original file is not modified.
 
 ## Example:
-File content: `There are seven elephants in the house.`
+File content: 
+```
+There are seven elephants in the house.
+```
 
 Output:
 ```
